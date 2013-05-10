@@ -1,4 +1,6 @@
 johjacb.github.io
 =================
 
-Practicing pages
+What should go in this area I wonder?
+
+http://johjacb.github.io/
